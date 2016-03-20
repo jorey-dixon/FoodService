@@ -4,6 +4,25 @@
 Temp/
 Library/
 
+# =====
+# Art #
+# =====
+*.png
+*.jpeg
+*.jpg
+*.gif
+*.bmp
+*.psd
+
+# =======
+# Audio #
+# =======
+*.wav
+*.mp3
+*.aif
+*.aiff
+*.ogg
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
